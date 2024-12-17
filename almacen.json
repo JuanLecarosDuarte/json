@@ -6,6 +6,13 @@
       "email": "ju.lecaros@duocuc.cl",
       "password": "j1234567",
       "isactive": true
+    },
+    {
+      "username": "docente",
+      "email": "ju.lecaros@duocuc.cl",
+      "password": "j1234567",
+      "isactive": true,
+      "id": "pTWw1kC"
     }
   ],
   "imagenes": [
@@ -28,7 +35,17 @@
       "telefono": "+569123456789",
       "direccion": "maipu",
       "base64": ""
+    },
+    {
+      "nombre": "Docente",
+      "carrera": "Carrera1",
+      "sede": "Maipú",
+      "telefono": "+5699999999",
+      "direccion": "Maipú",
+      "base64":"",
+      "id": "Zk2ovVA"
     }
+  
   ],
   "registros": [
     {
