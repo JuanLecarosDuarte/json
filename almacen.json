@@ -104,12 +104,14 @@
       "qrData": "{\"asignatura\":\"aplicaciones moviles\",\"profesor\":\"profesor 1\",\"rut\":\"20138113\",\"correo\":\"ju.lecaros@duocuc.cl\"}",
       "rut": "20138113",
       "correo": "ju.lecaros@duocuc.cl",
+      "estado":"ausente",
       "imagenBase64": "",
-      "imagenBase64qr": ""
+      "imagenBase64qr": "",
+       "sala":""
     },
     {
       "id": "9970",
-      "nombre": "juan lecaros",
+      "nombre": "diego m ",
       "descripcion": "estudiante",
       "asignatura": "aplicaciones moviles 001",
       "fecha": "11/11/2024, 3:46:46",
@@ -117,12 +119,14 @@
       "qrData": "{\"asignatura\":\"aplicaciones moviles\",\"profesor\":\"profesor 1\",\"rut\":\"20138113\",\"correo\":\"ju.lecaros@duocuc.cl\"}",
       "rut": "20138113",
       "correo": "ju.lecaros@duocuc.cl",
+      "estado":"ausente",
       "imagenBase64": "",
-      "imagenBase64qr": ""
+      "imagenBase64qr": "",
+       "sala":""
       },
       {
         "id": "9970",
-        "nombre": "juan lecaros",
+        "nombre": "mauricio m",
         "descripcion": "estudiante",
         "asignatura": "aplicaciones moviles 001",
         "fecha": "11/11/2024, 3:46:46",
@@ -130,8 +134,10 @@
         "qrData": "{\"asignatura\":\"aplicaciones moviles\",\"profesor\":\"profesor 1\",\"rut\":\"20138113\",\"correo\":\"ju.lecaros@duocuc.cl\"}",
         "rut": "20138113",
         "correo": "ju.lecaros@duocuc.cl",
+        "estado":"ausente",
         "imagenBase64": "",
-        "imagenBase64qr": ""
+        "imagenBase64qr": "",
+        "sala":""
         }
 
   ],
